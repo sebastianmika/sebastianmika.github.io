@@ -1,0 +1,42 @@
+# Jobs
+- company: Tripactions Inc, Berlin / Palo Alto
+  position: Sr. Director Data
+  duration: since Feb 2022
+  summary: TBD
+- company: Comtravo GmbH, Berlin
+  position: VP Data
+  duration: 2016 &mdash; 2022
+  summary: TBD
+- company: stor.es, Berlin
+  position: Various roles from head of data science, CTO to CEO
+  duration: 2015 - 2016
+  summary: TBD advanced offline location analytics using mobile devices and proprietary hardware)
+- company: Springteufel e.V., Berlin
+  position: Director
+  duration: 2011 &mdash; 2019
+  summary: |
+    Served on the board of directors (for most of the time as the head) 
+    of a nursery and after-school-club in Berlin, serving about 40 kids between 3 and 11
+    with 6-8 employees.
+- company: Catenion GmbH, Berlin
+  position: Associate
+  duration: 2007-2014
+  summary: TBDa pharma strategy consulting boutique
+- company: idalab GmbH, Berlin
+  position: Founder & CEO
+  duration: 2003 &mdash; 2014
+  summary: Founder and CEO at idalab, Berlin – a data science consulting boutique
+- company: AT&T Research, New Jersey, USA
+  position: Intern
+  duration: 2001
+- company: Microsoft Research, Cambridge, UK
+  position: Intern
+  duration: 2000
+  summary: TBD
+- company: Fraunhofer Institut FIRST & University of Technology, Berlin
+  position: Research Associate
+  duration: 1999 &mdash; 2003
+  summary: |
+    Persued my diploma and PhD working on kernel methods, notable support vector machines, 
+    neural networks and boosting techniques. Developed a new algorithm (Kernel Principal Component Analysis). 
+    Authored 50+ scientific, peer reviewd articles. Various presentation on international conferences (NIPS, ICANN, ...)
