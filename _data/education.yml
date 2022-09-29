@@ -2,19 +2,38 @@
 - degree: MBA Risk & Fraud Management
   uni: Steinbeis-Hoch-schule Berlin
   year: 2005 &mdash; 2007
-  summary: TBD
+  summary: >
+    Pursued for two years an MBA (extra-occupationally) with a specialization in risk and fraud management. Whilst covering
+    many diverse aspects of risk and fraud, including but not limited to financial, legal or forensic, I focused especially
+    on anti money laundring (AML).
 - degree: CFE (Certified Fraud Examiner)
   uni: Steinbeis-Hoch-schule Berlin
   year: 2007
+  summary: >
+    As part of above mentioned MBA I was rewarded to be a Certified Fraud Examiner
 - degree: PhD
   uni: Technical University of Berlin
   year: 1999 &mdash; 2002
   awards:
     - award: Summa Cumme Laude graduate
-  summary: TBD
+  summary: >
+    I had the pleasure to work for some years on both practical and foundational machine learning reseach topics,
+    collaborating with many great minds, including
+    <a href="https://is.mpg.de/~bs">Bernhard Schölkopf</a>,
+    <a href="https://bmi.inf.ethz.ch/people/person/gunnar-raetsch/">Gunnar Rätsch</a>,
+    <a href="https://ai.facebook.com/people/jason-weston">Jason Weston</a>,
+    <a href="https://www.ml.tu-berlin.de/menue/members/klaus_robert_mueller/">Klaus-Robert Müller</a>
+    and many more. My thesis was about a novel non-linear variant of Fisher's discriminants:
+    <a href="https://depositonce.tu-berlin.de/bitstreams/281502c0-bbb3-42c1-8d5a-8b76d7607248/download">Kernel
+    Fisher Discriminants</a>.
 - degree: Diploma (Computer Science & Mathematics)
   uni: Technical University of Berlin
   year: 1994 &mdash; 1998
   awards:
     - award: With Distinction
-  summary: TBD
+  summary: >
+    I completed a diploma in CS with a strong focus on mathematics, effictively also providing me
+    with today's equivalent of a BSc in math. The results of my thesis were actually my
+    first scientific paper (ICANN 1998,
+    <a href="https://link.springer.com/chapter/10.1007/978-1-4471-1599-1_18">Kernel PCA pattern recon-struction
+    via approximate pre-images</a>).

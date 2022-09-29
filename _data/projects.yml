@@ -1,16 +1,62 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: stor.es &mdash; offline location analytics
+  role: Data Lead & Developer, CTO
+  duration: 2014-2016
+  description: >
+    Development and implementation of an indoor localization and tracking product based on Bluetooth
+    low energy/RF technology (app based as well as using proprietary hardware)<p>
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+    <b>Responsibilities</b>: data modeling and visualiza-tion, (real-time) analytics,
+    implementation & de-ployment<p>
+    <b>Technologies</b>: python (flask, numpy, pandas, aklearn, scipy, …), apache storm + flink, post-gresql,
+    rabbit MQ, redis, celery, some java, ruby, go, ember.js<p>
+    <b>Platforms</b>: heroku, wercker, papertrail, librato, docker, various services on AWS
+- project: Risk Assessment Tool
+  duration: 2007 &mdash; 2014
+  description: >
+    Various consulting projects for major pharma companies, mostly related to assessing the
+    risk of the development pipeline and financial fore-casting. Furthermore, conception and implementation of a
+    risk assessment tool for both, internal and client use (in C#/WPF)
+- project: Planet Art
+  duration: 2014
+  description: >
+    Development and implementation support for a mobile application “Planet Art offers you a dis-tilled view of
+     the vast range of art news, reviews and information across the art world“; this app was the winner of the red dot for
+     communication design 2015<p>
+     <b>Technologies</b>: python (flask)<p>
+     <b>Platforms</b>: heroku, wercker
+- project: Real Estate Pricing
+  duration: 2012 &mdash; 2014
+  description: >
+    For the German online real estate platform we run the conception and development of various real estate related
+    hedonic pricing models based on advertisement data<p>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+    <b>Technologies</b>: python (numpy, pandas), mapnik, gurobi, various other
+- project: Recommendation for a curated shopping platform
+  duration: 2013
+  description: >
+    Consulting, development, and implementation for recommender systems in the absence of online data
+- project: A dating platform
+  duration: 2013
+  description: >
+    Design and implementation of a solution to predict the likelihood of users to convert to payers from
+    in-app behavioral data in a freemium business model
+- project: FRAT
+  duration: 2005 -2012
+  description: >
+    Conception and implementation of an innova-tive Fraud Risk Assessment Tool for one of the “big four”<p>
+    <b>Technologies</b>: C#, ASP.NET, MS-SQL
+- project: GRS Batterienregister
+  duration: 2011 -2012
+  description: >
+    Design and implementation of a web application that allows distributors of batteries to
+    participate in a mandatory common collection scheme (https://www.batterieregister.de)<p>
+
+    <b>Technologies</b>: C#, ASP.NET, WPF, MS-SQL
+    <b>Platforms</b>: Azure
+- project: IP Based Investments
+  duration: 2010 -2011
+  description: >
+    For a large German bank, Concept and development of an investment scoring
+    tool based on intellectual property data (i.e. patent applications)
